@@ -34,12 +34,6 @@
 Smaller tools, games and prototypes are in the repository list below, and all of them are on my
 [portfolio](https://aziz-hizem.github.io).
 
-## 🔨 Currently building
-
-[**spotify-chatbot**](https://github.com/aziz-hizem/spotify-chatbot) — manage Spotify playlists by
-chatting in plain English. Adding songs works today; next come removing them, playlist questions,
-multi-turn conversations and per-user login.
-
 ## 🛠 What I work with
 
 **Cloud & infrastructure**
