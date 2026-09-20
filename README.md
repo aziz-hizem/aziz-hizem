@@ -35,7 +35,11 @@ multi-turn conversations and per-user login.
 
 ### What I work with
 
-- **DevOps & Cloud** — Azure DevOps, Azure Pipelines, Docker, Terraform, SonarQube, Linux, Git
-- **AI & Computer Vision** — OpenCV, YOLO / Ultralytics, dlib, NEAT, LLM APIs, text-to-SQL
-- **Software** — Python, FastAPI, TypeScript, React, Electron, C# / .NET, SQL
-- **Hardware** — Raspberry Pi, Arduino, GPIO, servos and LEDs, serial communication, camera streaming
+- **Cloud & Infrastructure** — AWS (Lambda, S3, DynamoDB, API Gateway, CloudFront, ECR), Azure (Container Apps, Container Registry, Azure SQL), Terraform, Docker
+- **DevOps & CI/CD** — Azure DevOps (Repos, Pipelines, Boards), GitLab CI/CD, SonarQube, Git, infrastructure as code, Linux
+- **AI & Machine Learning** — LLM integration (AWS Bedrock, LangGraph), prompt engineering, text-to-SQL, object detection (YOLO11 / Ultralytics), computer vision (OpenCV, dlib), PyTorch
+- **Programming** — Python, Java, C, C#, SQL, TypeScript
+- **Backend & APIs** — REST APIs, WebSockets, FastAPI
+- **Frontend & Desktop** — React, Electron, PyQt6
+- **Embedded & Hardware** — Raspberry Pi, Arduino, GPIO, servos and LEDs, serial communication, camera streaming
+- **Languages** — English (bilingual), French (bilingual), Arabic (native), German (basic)
