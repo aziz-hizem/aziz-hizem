@@ -1,19 +1,26 @@
-# Aziz Hizem
+<h1 align="center">Hey, I'm Aziz 👋</h1>
 
-**Final-year engineering student at INSAT**, studying industrial computing and automation.
-Most of my work is in DevOps, cloud and AI.
+<p align="center">
+  Final-year engineering student at <b>INSAT</b> — DevOps, cloud and AI<br>
+  Open to a <b>5–6 month end-of-studies internship from February 2027</b>, hybrid or on site
+</p>
 
-These repositories are where my curiosity landed: DevOps, AI, software that solves a problem or
-makes something easier, and the hardware and automation I study. Most of them started as a question
-I wanted to answer myself, and each one has a README explaining what it does and how to run it.
-
-**Open to an end-of-studies internship** — 5–6 months, starting February 2027, hybrid or on site.
-
-📄 [**Portfolio**](https://aziz-hizem.github.io) · 💼 [**LinkedIn**](https://www.linkedin.com/in/azizhizem/) · ✉️ **azizhizem8818@gmail.com**
+<p align="center">
+  <a href="https://aziz-hizem.github.io"><img src="https://img.shields.io/badge/Portfolio-1B4965?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/azizhizem/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:azizhizem8818@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
 ---
 
-### A few projects
+## 🧭 About
+
+- 🎓 Studying **industrial computing and automation** at INSAT, Tunis
+- ☁️ Two summers of internships in **cloud, DevOps and AI** — one at an airline, one in Paris
+- 🔧 Most of what I build is infrastructure, delivery pipelines, and the AI that runs on top of them
+- 🤖 The rest is hardware I can put a camera on and point at something
+
+## 🚀 A few projects
 
 | Project | What it is |
 |---|---|
@@ -27,19 +34,53 @@ I wanted to answer myself, and each one has a README explaining what it does and
 Smaller tools, games and prototypes are in the repository list below, and all of them are on my
 [portfolio](https://aziz-hizem.github.io).
 
-### Currently building
+## 🔨 Currently building
 
 [**spotify-chatbot**](https://github.com/aziz-hizem/spotify-chatbot) — manage Spotify playlists by
 chatting in plain English. Adding songs works today; next come removing them, playlist questions,
 multi-turn conversations and per-user login.
 
-### What I work with
+## 🛠 What I work with
 
-- **Cloud & Infrastructure** — AWS (Lambda, S3, DynamoDB, API Gateway, CloudFront, ECR), Azure (Container Apps, Container Registry, Azure SQL), Terraform, Docker
-- **DevOps & CI/CD** — Azure DevOps (Repos, Pipelines, Boards), GitLab CI/CD, SonarQube, Git, infrastructure as code, Linux
-- **AI & Machine Learning** — LLM integration (AWS Bedrock, LangGraph), prompt engineering, text-to-SQL, object detection (YOLO11 / Ultralytics), computer vision (OpenCV, dlib), PyTorch
-- **Programming** — Python, Java, C, C#, SQL, TypeScript
-- **Backend & APIs** — REST APIs, WebSockets, FastAPI
-- **Frontend & Desktop** — React, Electron, PyQt6
-- **Embedded & Hardware** — Raspberry Pi, Arduino, GPIO, servos and LEDs, serial communication, camera streaming
-- **Languages** — English (bilingual), French (bilingual), Arabic (native), German (basic)
+**Cloud & infrastructure**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+**DevOps & CI/CD**
+
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
+![GitLab CI/CD](https://img.shields.io/badge/GitLab%20CI%2FCD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqubeserver&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+**AI & computer vision**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO11-111F68?style=for-the-badge&logo=ultralytics&logoColor=white)
+![Amazon Bedrock](https://img.shields.io/badge/Amazon%20Bedrock-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+
+**Languages & frameworks**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=dotnet&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
+![Qt](https://img.shields.io/badge/PyQt6-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+
+**Hardware**
+
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white)
+
+**Spoken** — English (bilingual) · French (bilingual) · Arabic (native) · German (basic)
