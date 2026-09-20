@@ -16,7 +16,7 @@
 ## 🧭 About
 
 - 🎓 Studying **industrial computing and automation** at INSAT, Tunis
-- ☁️ Two summers of internships in **cloud, DevOps and AI** — one at an airline, one in Paris
+- ☁️ Two summers of internships in **cloud, DevOps and AI** 
 - 🔧 Most of what I build is infrastructure, delivery pipelines, and the AI that runs on top of them
 - 🤖 The rest is hardware I can put a camera on and point at something
 
